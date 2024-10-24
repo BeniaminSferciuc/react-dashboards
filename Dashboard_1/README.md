@@ -4,6 +4,6 @@
     <img src="./public/Desktop.png" style="margin-top: .5rem"/>
     <h2 style="margin-top: 1rem">Mobile Preview</h2>
     <p align="center">
-      <img src="./public/Mobile.png" style="margin-top: .5rem">
+      <img src="./public/Mobile.png" style="margin-top: .5rem" width="400">
     </p>
 </div>
